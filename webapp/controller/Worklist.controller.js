@@ -90,7 +90,7 @@ sap.ui.define([
 		onPress: function(oEvent) {
 			// The source is the list item that got pressed
 			this._showObject(oEvent.getSource());
-			window.location= "http://s38.fulcrum-gt.com/sap/bc/ui5_ui5/sap/ZPRS_BILL_EDIT/index.html#/main";
+		//	window.location= "http://s38.fulcrum-gt.com/sap/bc/ui5_ui5/sap/ZPRS_BILL_EDIT/index.html#/main";
 			/*var oCrossAppNav = sap.ushell.Container.getService("CrossApplicationNavigation"); 
 			oCrossAppNav.toExternal({
 				target: {
